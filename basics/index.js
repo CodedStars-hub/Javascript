@@ -1,4 +1,4 @@
-let firstName = "Harshita";
+let firstname = "Harshita";
 let age = 20;
 let student = true;
 
